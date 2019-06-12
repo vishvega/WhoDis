@@ -1,5 +1,5 @@
-# whodis
-Identify Geographical data of a visitor by IP Address
+# Who Dis?
+### Identify Geographical data of a visitor by IP Address
 
 
 Who Dis? tool will help you find the approximate geographic location of an IP address along with some other useful information including Country Code, Country Name, Region Name, City Name, Latitude, Longitude, ZIP Code, Time Zone, ISP, Domain, Latitude, IDD Code, Area Code, Weather Station Code, Weather Station Name, Mobile Brand, Elevation,Usage Type etc. 
@@ -13,7 +13,7 @@ You should get an API KEY by registering with them.
 you can use API KEY: demo for testing purposes.
 
 
-#Screenshots
+# Screenshots
 
 ![Initial View](https://i.imgur.com/YQHUc0H.png)
 
