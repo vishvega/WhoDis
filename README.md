@@ -11,3 +11,9 @@ Please note that I have no connection whatsoever with folks at ip2location nor I
 
 You should get an API KEY by registering with them. 
 you can use API KEY: demo for testing purposes.
+
+
+#Screenshots
+
+![Initial View](https://i.imgur.com/YQHUc0H.png)
+
