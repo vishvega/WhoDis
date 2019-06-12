@@ -1,0 +1,56 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+	padding-top: 50px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+h1{
+	font-family: 'Quicksand';
+	font-size: 36px !important;
+	text-align: center;
+}
+form{
+	display: inline-block;
+}
+.form-horizontal.eee{
+	width: 25%;
+}
+.maincontent{
+	min-height: 500px;
+}
+.ipdetails-wrap p {
+	font-family: 'Lato';
+	font-size: 14px;
+	text-align: justify;
+	background-color: #eee;
+	padding: 7px;
+}
+.ipdetails-wrap p span {
+    font-weight: 600;
+    padding-right: 1%;
+    line-height: 1.8;
+}
+#copy-ip-data {
+    margin-top: 50%;
+    width: 100%;
+    font-size: 16px;
+    font-family: 'Montserrat';
+}
+#op-ip-data {
+    padding-left: 12%;
+}
+
+
+
+
+
+
+
+
+
+
+
