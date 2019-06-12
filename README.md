@@ -17,3 +17,8 @@ you can use API KEY: demo for testing purposes.
 
 ![Initial View](https://i.imgur.com/YQHUc0H.png)
 
+
+
+![Detailed View](https://i.imgur.com/EEZZZpL.png)
+
+
